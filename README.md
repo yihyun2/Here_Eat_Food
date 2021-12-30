@@ -1,6 +1,7 @@
 # Here_Eat_Food
-![image](https://user-images.githubusercontent.com/75685520/147721816-1f490708-fbed-4960-88ed-8e8c364bcbaa.png)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75685520/147721816-1f490708-fbed-4960-88ed-8e8c364bcbaa.png" width=30%>
+</p>
 
 # 기획의도
 전 세계에서 배달 서비스로 1위가 어딘지 생각해본다면  그건 단연 한국이라고 할 수 있겠다. 
@@ -23,10 +24,20 @@ Pc로 이용하는 배달 웹이 있다면 어떨까하는 생각이 떠올랐�
 때문에 시중에있는 배달앱을 모티브로 웹으로 만든 배달음식사이트 “여기있음”을 구상하게 되었다.
 
 “여기있음”은 음식점과 소비자를 이어주는 웹서비스이다.
-![image](https://user-images.githubusercontent.com/75685520/147721800-377d448a-f5b2-4eec-a27c-86850a505828.png)
+
+# 프로젝트 전체적인 구조
+
+# 프로젝트 성능 관리
 
 # 사용기술 및 환경
 java8, spring, maven, my-batis, mysql, html5, css3, java script,aws ec2
+
+# 블로그 기술 정리
+
+# CI
+
+# CD
+
 
 # 요구사항
 사용자 요구사항
@@ -34,3 +45,5 @@ java8, spring, maven, my-batis, mysql, html5, css3, java script,aws ec2
 사장님 요구사항
 
 관리자 요구사항
+
+# 화면설계
